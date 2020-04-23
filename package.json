@@ -1,0 +1,11 @@
+{
+  "name": "my-bias-book",
+  "version": "1.0.0",
+  "description": "a platform for fan-photographers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katherine Lee",
+  "license": "ISC"
+}
