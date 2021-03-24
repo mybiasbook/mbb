@@ -1,4 +1,4 @@
-# Repo for my-bias-book.com
+# Repo for [my-bias-book.com](https://www.my-bias-book.com)
 
 ### Do you love following your favorite KPOP groups on SNS but wish there was a better way to share, organize, upvote, & comment on fan photos?
 
@@ -8,5 +8,5 @@
 
 > This gallery-style photo submission and up-voting site helps fan photographers showcase their skills and provide great content for their fanbases.
 
-### Who's your bias? Share with us @ my-bias-book.com!
+### Who's your bias? Share with us @ [my-bias-book.com](https://www.my-bias-book.com)!
 
