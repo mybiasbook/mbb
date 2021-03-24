@@ -10,3 +10,7 @@
 
 ### Who's your bias? Share with us @ [my-bias-book.com](https://www.my-bias-book.com)!
 
+#### Site currently under construction - please enjoy this small preview~
+
+https://user-images.githubusercontent.com/58742933/112379976-ce6b3100-8cb6-11eb-8c9d-f583a1ac145c.mov
+
